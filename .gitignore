@@ -1,1 +1,3 @@
-*.inn*.outn*.pyc
+*.in
+*.out
+*.pyc
